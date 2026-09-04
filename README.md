@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi, I'm Rubén 👋
 
-<!--
-**rubenalfon/rubenalfon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Android / Kotlin developer based in Valladolid, Spain.
 
-Here are some ideas to get you started:
+I build Android and multiplatform applications with Kotlin, Jetpack Compose and Compose Multiplatform.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured projects
+#### 📱 Pile
+ Open-source file management application for Android.
+#### 📔 DiaryCMP
+ Cross-platform private diary built with Compose Multiplatform.
+
+### Technologies
+Kotlin · Android · Jetpack Compose · Compose Multiplatform · Koin · SQLDelight · Clean Architecture · MVI
